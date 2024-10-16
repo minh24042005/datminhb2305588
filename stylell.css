@@ -1,0 +1,28 @@
+.minh{
+    margin-bottom: 5px;
+    width: 100%;
+    text-align: center;
+}
+.minh div{
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding-top: 5px;
+    width: 15%;
+    display: inline-block;
+    background-color: rgb(140, 188, 230);
+}
+
+      body {
+        font-size: 18px;
+           text-align: center;
+      }
+    
+
+      td,
+      th {
+        padding: 9px 13px;
+      }
+      img{
+        height: 250px;
+        width: 250px;
+      }
